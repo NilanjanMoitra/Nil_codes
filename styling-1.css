@@ -1,0 +1,14 @@
+h1 {
+  color: red;
+  font-size: 200%;
+}
+h2 {
+  color: blue;
+  font-size: 200%;
+}
+* {
+  background-color: yellow;
+}
+u {
+  color: purple;
+}
